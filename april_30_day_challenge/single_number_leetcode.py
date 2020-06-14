@@ -14,5 +14,4 @@ class Solution:
             # Remove at second occurance
             else:
                 numbers.remove(num)
-
         return numbers.pop()
