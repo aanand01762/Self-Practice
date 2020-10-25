@@ -1,4 +1,4 @@
-// Solution of problem "7. Reverse Integer" at  leet code
+// Solution of problem "7. Reverse Integer" at leetcode
 // link: https://leetcode.com/problems/reverse-integer/
 
 package main
